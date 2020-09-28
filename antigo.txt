@@ -1,0 +1,676 @@
+TERMOS E CONDIÇÕES DE USO DO APLICATIVO GARUPA
+O presente documento contém tanto os Termos e Condições de Uso do Aplicativo Garupa para
+Motoristas (“Garupers”), quanto os Termos e Condições de Uso do Aplicativo Garupa para
+Usuários. Conforme você esteja utilizando o aplicativo como motorista, deverá observar os
+Termos e Condições de Uso do Aplicativo Garupa para Motoristas (“Garupers”); se, entretanto,
+estiver utilizado o aplicativo para contratar corridas como passageiro, serão aplicáveis os Termos
+e Condições de Uso do Aplicativo Garupa para Usuários.
+TERMOS E CONDIÇÕES DE USO DO APLICATIVO GARUPA
+PARA USUÁRIOS
+(última atualização: 07 de abril de 2020)
+Olá! Antes de utilizar nossos serviços, tire um tempo para ler nossos Termos e Condições de Uso
+e conheça as regras que regem nossa relação com você!
+A seguir, esclareceremos os pontos que julgamos mais importantes. Caso persista alguma dúvida
+sobre quaisquer pontos discutidos ou não neste documento, por favor, entre em contato
+conosco pelo endereço sou@garupa.co.
+POR FAVOR, LEIA COM ATENÇÃO OS PRESENTES TERMOS ANTES DE ACESSAR OU UTILIZAR OS
+NOSSOS SERVIÇOS.
+1. DEFINIÇÕES
+GARUPA: GARUPA DESENVOLVIMENTO DE SISTEMAS LTDA., pessoa jurídica de direito privado,
+inscrita no CNPJ sob o n.o 20.353.275/0001-16, com sede na Rua Botafogo, no 271 – Bairro
+Menino Deus, Porto Alegre/RS, CEP 90150-051.
+PLATAFORMA: Ferramenta constituída por um aplicativo mobile e uma aplicação web oferecida,
+de responsabilidade, propriedade e operação do Garupa, que proporciona interação online
+entre os Usuários e motoristas cadastrados, viabilizando o transporte remunerado privado
+individual de passageiros, bem como solicitação de serviços de logística e/ou compra de bens,
+perante terceiros independentes.
+USUÁRIO: pessoa física, maior de idade, totalmente capaz para os atos da vida civil, ou pessoa
+jurídica devidamente constituída, que acesse e/ou utilize os serviços ofertados pela plataforma.
+MOTORISTA: pessoa física, maior de idade, totalmente capaz para os atos da vida civil,
+devidamente cadastrado na plataforma do Garupa e atendendo a todos os requisitos legais e
+regulamentares.
+2. RELAÇÃO CONTRATUAL
+Este instrumento regula as condições de uso dos serviços da plataforma sendo um contrato
+entre o Usuário e o Garupa. A utilização dos serviços oferecidos na plataforma indica
+expressamente que o Usuário concorda com todos os termos e condições contidos neste
+instrumento e com as disposições legais aplicáveis à espécie.O USUÁRIO COMPREENDE QUE O GARUPA CONSIDERARÁ A UTILIZAÇÃO DOS SERVIÇOS
+DISPOSTOS NA PLATAFORMA COMO ACEITAÇÃO DESTES TERMOS E DE TODAS AS DEMAIS
+DISPOSIÇÕES LEGAIS PERTINENTES À ESPÉCIE, BEM COMO AUTORIZA O GARUPA A REALIZAR O
+TRATAMENTO DOS SEUS DADOS PESSOAIS, EM CONFORMIDADE COM O QUE PREVÊ O ART. 7o,
+INCISO I, DA LEI No 13.709/2018.
+Caso você NÃO CONCORDE com os termos de uso previstos neste instrumento, NÃO SE
+CADASTRE, nem acesse, visualize, baixe ou utilize de qualquer forma nenhuma página,
+conteúdo, informação ou serviço do Garupa.
+O USUÁRIO RECONHECE QUE O GARUPA NÃO É UMA EMPRESA PRESTADORA DE SERVIÇOS DE
+TRANSPORTE. A PRESTAÇÃO DOS SERVIÇOS DE TRANSPORTE É DE EXCLUSIVA
+RESPONSABILIDADE DO MOTORISTA CADASTRADO NA PLATAFORMA. O USUÁRIO RECONHECE
+QUE O GARUPA COLOCA À DISPOSIÇÃO DO USUÁRIO UMA PLATAFORMA PARA APROXIMAR E
+CONTATAR OS USUÁRIOS AOS CONDUTORES RESPONSÁVEIS PELA REALIZAÇÃO DO CONTRATO
+DE TRANSPORTE DE PESSOAS E/OU DE COISAS.
+O Garupa poderá imediatamente encerrar e/ou alterar o conteúdo destes Termos ou quaisquer
+serviços em relação ao Usuário ou, de modo geral, deixar de oferecer ou negar acesso aos
+serviços ou a qualquer parte deles, a qualquer momento e por qualquer motivo.
+Para atividades como eventos e promoções, poderão ser adicionados termos específicos que
+serão divulgados aos respectivos serviços. Estes termos adicionados passam a integrar os demais
+termos e caso haja conflito entre eles os termos adicionados posteriormente prevalecem.
+O Garupa tem autonomia para modificar, subtrair e adicionar novos termos sempre que
+necessário. Essas alterações entrarão em vigor quando houver uma nova atualização da versão,
+na qual haverá atualização dos Termos e Condições de Uso dos serviços. A CADA ALTERAÇÃO
+NOS TERMOS E CONDIÇÕES DE USO, O USUÁRIO SERÁ INFORMADO E DEVERÁ INFORMAR A SUA
+CIÊNCIA E ANUÊNCIA ÀS MODIFICAÇÕES.
+Os dados obtidos pelo Garupa, incluindo suas informações de contato, poderão ser usados em
+eventuais casos de reclamação, litígio e acidente envolvendo você e o motoristas, na intenção
+de que seja apurado e solucionado o incidente.
+3. SERVIÇOS
+Disposições gerais dos serviços
+Os serviços fornecidos pelo Garupa consistem em uma plataforma tecnológica que permite aos
+Usuários solicitar serviços de transporte e/ou de logística, a partir de motoristas cadastrados.
+Os serviços são disponibilizados unicamente para o uso pessoal (enquanto consumidor ou para
+fins profissionais) e não comercial. O Usuário reconhece que o Garupa não presta serviços de
+terceiros, incluindo serviços de transporte ou logísticos, nem funciona como empresa
+transportadora.
+Não há por parte do Garupa qualquer tipo de vínculo empregatício com os motoristas
+cadastrados na plataforma, tampouco qualquer responsabilidade sobre a qualidade do serviço
+prestado pelo motorista individualmente. Inclusive, é possibilitado ao Usuário cancelar qualquer
+corrida caso não deseje se utilizar dos serviços de determinado motorista (motorista mal
+avaliado no aplicativo, exemplificativamente).A responsabilidade do Garupa em relação aos motoristas cadastrados na plataforma limita-se
+a exigir, no momento do cadastro, o atendimento a todos os requisitos legais para o exercício
+da atividade de transporte remunerado privado individual de passageiros.
+Prestação dos serviços
+O Usuário reconhece que os serviços podem ser disponibilizados através das várias opções de
+pedido na plataforma, incluindo, sem limitar, o “Garupa Clássico”, “Garupa Executivo”, “Garupa
+Empresa”, “Garupa Pet”, “Garupa Objeto”, “Garupa Kids”, “Garupa Delivery”, este último
+prestado também através de motocicletas, e outros eventualmente a serem criados. O Usuário
+reconhece também que os referidos serviços podem ser disponibilizados através do próprio
+Garupa ou em conexão com: (i) subsidiárias, afiliadas ou parceiros do Garupa; ou (ii) terceiros
+prestadores de serviços, incluindo motoristas de empresas de rede de transporte, titulares de
+licença de motorista privado ou titulares de autorizações, licenças ou permissões
+administrativas similares, para transporte.
+Serviços e conteúdo de terceiros
+O Garupa não se responsabilizará por serviços de empresas que eventualmente venham, em
+parceria com o Garupa, destinar algum serviço, direta ou indiretamente, aos seus parceiros
+comerciais.
+Titularidade
+O Garupa reserva para si os direitos sobre os serviços de sua propriedade. Seu logotipo, marca
+estão protegidos e não podem ser explorados sem autorização expressa. A utilização que o
+Garupa lhe confere está descrita na seção “Licença”.
+Licença
+Mediante a aceitação destes Termos e Condições de Uso, o Garupa concede ao Usuário uma
+licença limitada, não-exclusiva, não-sublicenciável, revogável, inalienável que permite: (i) o
+acesso e utilização da aplicação no dispositivo pessoal do Usuário unicamente em conexão com
+internet; e (ii) o acesso e utilização de quaisquer conteúdos, informações ou materiais
+relacionados que possam ser disponibilizados através dos serviços da plataforma, sempre
+unicamente para uso pessoal (enquanto consumidor ou para fins profissionais) e não comercial.
+Quaisquer direitos que não sejam expressamente concedidos nestes Termos e Condições são
+reservados ao Garupa e aos licenciantes do Garupa.
+Restrições
+O Garupa não permite a utilização indevida da marca, logotipo ou qualquer outra propriedade
+intelectual, bem como explorar comercialmente qualquer serviço sem autorização. Não é
+permitido alterar, invadir, hackear ou alterar os programas do site e aplicativo sob pena das
+sanções legais cabíveis. Qualquer alteração, atualização e upgrade de software só poderá ser
+realizada pela equipe técnica do Garupa. Também é vedado ao Usuário reproduzir, preparar
+obras derivadas com base nos serviços, distribuir, conceder uma licença, alugar, vender,
+revender, transferir, exibir ou apresentar publicamente, transmitir, difundir, emitir ou por outra
+forma explorar os serviços, salvo mediante autorização expressa do Garupa. Igualmente, é
+proibido descompilar, aplicar engenharia reversa ou desmontar os serviços, salvo nos termos
+permitidos pelo direito aplicável, inserir links, ou criar mirrors ou frames de todos ou parte dos
+serviços; causar ou correr quaisquer programas ou scripts para efeitos de scraping, indexação,sondagens ou exploração de dados de qualquer parte dos serviços ou sobrecarregar ou
+prejudicar indevidamente a operação e/ou funcionalidade de qualquer aspeto dos serviços; ou
+tentar aceder sem autorização ou prejudicar qualquer aspeto dos serviços ou dos seus sistemas
+e redes relacionados.
+4. UTILIZAÇÃO DOS SERVIÇOS
+Contas de Usuários
+Para utilizar os serviços do Garupa, o Usuário precisa efetuar registro na plataforma e manter
+uma conta ativa. Para tanto, é necessário ter 18 (dezoito) anos de idade e ser plenamente capaz
+para os atos da vida civil. A criação da conta exige o preenchimento de algumas informações
+pessoais, como nome, endereço, número de telefone celular, idade, além de fornecer uma
+fotografia do Usuário, para fins de segurança dos motoristas e dos demais Usuários. Além disso,
+é necessário possuir um método de pagamento válido (cartão de crédito ou outro meio de
+pagamento aceito). Caso opte pela utilização de qualquer pagamento eletrônico, em especial
+cartão de crédito, o Usuário concorda que seja realizada uma cobrança para averiguação dos
+dados cadastrados, a qual será estornada posteriormente. A veracidade, atualização e
+manutenção das informações são de total responsabilidade do Usuário, o qual responderá civil
+e criminalmente na hipótese de falsidade. Caso não haja registro de um método de pagamento
+ou este for inválido ou expirado não será possível a criação de sua conta nem a utilização dos
+serviços do Garupa. O Usuário é responsável por manter atualizadas e completas as informações
+constantes na sua conta. O Usuário é responsável pela segurança e confidencialidade do nome
+de utilizador e senha da sua conta. Salvo autorização formal do Garupa, o Usuário só pode ter
+uma conta.
+O Usuário arcará com quaisquer perdas, danos ou prejuízos que possam decorrer do mau uso
+ou guarda ineficiente de seus dados de acesso, assim como, mas não se limitando, a sua
+divulgação, extravio ou utilização não autorizada por terceiros.
+O Garupa disponibiliza ao Usuário a opção de avaliar e comentar qualitativamente o serviço de
+transporte realizado pelo motorista, sendo vedada, sob pena de suspensão de uso ou
+cancelamento do acesso à plataforma, a publicação de comentários de caráter difamatório,
+calunioso, violento, obsceno, pornográfico, racista, homofóbico, ilegal ou de qualquer outra
+forma ofensivo, assim entendido pelo Garupa a seu exclusivo critério.
+O Garupa se reserva o direito de, a qualquer momento e a seu critério exclusivo, sancionar com
+a suspensão do Perfil ou mesmo com a exclusão do Usuário, sem prejuízo das medidas legais
+cabíveis, em virtude de qualquer comportamento danoso causado, informação inverídica, ou
+qualquer outra conduta praticada em violação aos presentes Termo de Uso.
+Conduta e obrigações do Usuário
+É vedado ceder ou transferir a conta do Garupa a qualquer outra pessoa física ou jurídica. Ao
+fazer uso da plataforma, o Usuário se compromete a cumprir a legislação e somente utilizar os
+serviços para finalidades legais. Também é compromisso do Usuário não causar qualquer tipo
+de perturbação, desconforto, transtorno ou danos materiais, tampouco participar de qualquer
+outra conduta ilegal, seja relativamente ao motorista, seja a qualquer outra parte. Em
+determinadas circunstâncias, pode ser exigido pelo motorista a apresentação de documento de
+identificação do Usuário, hipótese em que o Usuário desde já aceita, sob pena de lhe ser negado
+acesso ao serviço.O Usuário não poderá autorizar a utilização de sua conta por terceiros, tampouco permitir que
+pessoas menores de 18 (dezoito) anos tenham acesso à plataforma por meio de sua conta. O
+Usuário não poderá permitir que pessoas menores de 18 (dezoito) anos recebam serviços
+disponibilizado pelo Garupa, a menos que os menores estejam acompanhados pelo próprio
+Usuário titular da conta.
+O Usuário declara que comunicará o Garupa através se seus canais de atendimento caso tome
+conhecimento de qualquer risco à segurança dos dados informados em seu cadastro para que
+sejam realizados bloqueio e troca da senha de acesso. O Garupa considerará realizados pelo
+Usuário todas as contratações de serviços de Condutores até a data da comunicação.
+O conteúdo disponibilizado e publicado pelo Usuário na plataforma é de sua única e exclusiva
+responsabilidade nos aspectos civil e penal, inclusive em relação aos comentários e opiniões
+acerca de determinado conteúdo.
+O Usuário concorda em compensar e isentar o Garupa e seus administradores, diretores,
+funcionários e agentes, por todas e quaisquer reclamações, perdas, prejuízos e encargos
+contratuais, judiciais ou administrativos, decorrentes ou relacionados com (i) a utilização dos
+serviços; (ii) a infração ou violação de qualquer uma das presentes condições por parte do
+Usuário; (iii) a violação dos direitos de qualquer terceiro, incluindo motoristas, por parte do
+Usuário.
+Da perda ou extravio de objetos esquecidos nos veículos
+O Usuário declara ser seu o dever retirar do veículo todos os seus objetos pessoais, uma vez
+finalizado o trajeto. O Garupa não se responsabiliza por perdas ou extravios de objetos pessoais
+nos veículos, porém disponibilizará todo o auxílio ou informação que possa facilitar a sua
+recuperação. Com esse propósito, o Garupa coloca à disposição do Usuário o seguinte canal de
+comunicação: sou@garupa.co.
+Mensagens de texto
+Ao se tornar Usuário do Garupa, concorda-se em receber sempre que necessário SMS com
+notícias, regras, normas, publicidade, alertas, atualizações ou qualquer outra que se achar
+necessário para o bom desenvolvimento desta plataforma.
+Códigos promocionais
+O Garupa, a seu critério e sem aviso prévio, poderá criar, alterar ou desativar “códigos
+promocionais” para resgate em conta para públicos e datas específicas ou não, para uso de seus
+serviços. Esses códigos são de uso individual e pessoal e não poderão ser transferidos nem
+compartilhados sem a prévia autorização do Garupa. Poderão ser desativados os códigos que
+expirarem a sua validade ou aqueles que o Garupa suspeite serem fraudados ou alterados sem
+nenhuma sanção ou responsabilidade por parte do Garupa. Em hipótese alguma os códigos
+criados serão cumulativos, ou seja, não podendo ser utilizados os códigos de uma promoção
+vigente para outra.
+Conteúdo fornecido pelo Usuário
+O Garupa poderá permitir que qualquer pessoa publique, carregue, apresente e disponibilize
+conteúdo no formato de texto, áudio e vídeo incluindo comentários e feedbacks que dizem
+respeito aos serviços. Esse material permanece de propriedade do Usuário, mas podendo o
+Garupa utilizar o mesmo em nível mundial com direito a copiar, alterar, distribuir, criar obrasderivadas e utilizar da forma que desejar sem que isso cause qualquer direito ou royalties para
+o Usuário nem qualquer processo indenizatório.
+O Usuário declara e garante que é o único responsável e proprietário de sua conta e que todo o
+conteúdo é de sua inteira responsabilidade não devendo publicar material ofensivo,
+preconceituoso, pornográfico, ilegal, difamatório e constrangedor. O Garupa poderá remover
+este tipo de material sem aviso prévio e quando julgar necessário.
+Acesso à rede e equipamentos
+O Garupa não se responsabiliza pelo acesso à rede (internet) para utilização dos serviços nem
+pelos dispositivos utilizados (computadores, tablets e smartphones). Cabe ao Usuário manter
+esses serviços, bem como todos os encargos necessário para o seu uso. Não há garantia que os
+serviços funcionarão em qualquer rede ou equipamento nem sobre a cobertura da rede e dos
+serviços. Deve-se observar as condições do funcionamento de rede em cada região. O Garupa
+não garante que os serviços, ou qualquer parte deles, funcionarão em qualquer equipamento
+ou dispositivo em particular.
+5. PAGAMENTO
+Disposições gerais
+A contratação dos serviços pelo Usuário gerará um valor em dinheiro a ser pago ao motorista.
+O Garupa intermedeia esta operação repassando ao prestador o valor devido mais os impostos
+sobre o referido serviço sem haver qualquer outro ônus ao Usuário. O valor informado é o valor
+final e total pelo serviço, não havendo nenhum acréscimo ou adicional, que será lançado no
+cartão de crédito ou outro método de pagamento contratado. O recibo será enviado ao Usuário
+por e-mail. Qualquer problema que possa haver no método de pagamento o Garupa usará um
+segundo método indicado no momento do cadastro (envio de boleto bancário). Conforme a
+região geográfica pode haver acréscimos no valor devido a pedágios e legislações locais. O
+Garupa gerencia o pagamento dos motoristas, mas não gerencia gorjetas de qualquer espécie.
+As gorjetas são de única e exclusiva inciativa do Usuário e deve fazê-lo no local se optar por essa
+compensação.
+No valor total informado da corrida, está incluído o montante de R$ 0,80 (oitenta centavos)
+relativo à taxa de tecnologia.
+Na hipótese de inadimplemento de corridas pelo Usuário, de forma total ou parcialmente, seja
+em dinheiro, seja por cartão de crédito, o Garupa poderá se utilizar dos dados cadastrais do
+Usuário para realizar a cobrança dos valores.
+Caso o Usuário opte por pagar a corrida em espécie, contudo efetue o cancelamento da corrida
+antes de inicia-la, o Garupa poderá sobrar do Usuário uma Taxa de Cancelamento, a qual será
+debitada do valor da próxima corrida contratada pelo Usuário, podendo a referida taxa ser
+debitada, inclusive, do cartão de crédito eventualmente cadastrado pelo Usuário.
+Tarifas e Encargos
+As tarifas aplicáveis aos Usuários são fornecidas no aplicativo e/ou no website e podem ser
+alteradas ou atualizadas pelo Garupa.
+O Usuário reconhece e aceita que podem ser estabelecidos, removidos e/ou revistos encargos
+para todos ou quaisquer serviços nos termos aqui estabelecidos, sendo acordado que osencargos aplicáveis são os que estiverem em vigor ao tempo em que o pedido por parte do
+Usuário for efetuado.
+Os encargos pagos pelo Usuário são definitivos e não reembolsáveis, salvo disposição em
+contrário nestes Termos e Condições de Uso, ou a partir de decisão do Garupa ou do motorista
+cadastrado na plataforma.
+Espera
+Se o Usuário submeter o motorista a espera antes do início ou durante a prestação do serviço
+para além do tempo indicado como gratuito na plataforma, o Garupa pode cobrar do Usuário
+uma taxa de espera em benefício do motorista, a qual será informada em seu telefone celular.
+Cancelamento
+Não haverá cobrança de qualquer valor caso a corrida solicitada seja cancelada antes da
+aceitação de algum motorista. Caso já tenha ocorrido a aceitação do motorista, após o tempo
+informado na plataforma, o Usuário poderá ser sofrer a cobrança da taxa de cancelamento
+informada no aplicativo.
+Taxa de reparos ou limpeza
+Caso haja mau uso do serviço, excedendo as condições normais de limpeza e cuidados, o Garupa
+pode cobrar do Usuário através de sua conta, a limpeza e reparos de possíveis danos no veículo
+do motorista, reembolsando-o pelo ocorrido os serviços de acordo com os valores de mercado.
+Esses valores não são reembolsáveis.
+6. RESPONSABILIDADES
+O GARUPA NÃO SE RESPONSABILIZA POR DANOS MATERIAIS, PATRIMONIAIS, MORAIS OU
+QUALQUER OUTRO QUE POSSA RESULTAR DO USO DOS SERVIÇOS, SENDO EXPRESSAMENTE
+RECONHECIDO PELO USUÁRIO QUE SE TRATA DA CONTRATAÇÃO DE SERVIÇO DE TERCEIRO,
+CUJA RESPONSABILIDADE É INTEGRAL DO PRÓPRIO MOTORISTA.
+O Garupa não se responsabiliza nem dá garantias sobre a qualidade, confiabilidade,
+disponibilidade e pontualidade dos serviços. É de responsabilidade do Usuário qualquer risco
+que possa envolver os serviços. Os motoristas são terceiros prestadores de serviços, e não
+funcionários do Garupa, não possuindo o Garupa qualquer ingerência em relação à conduta e
+comportamento dos motoristas.
+Na hipótese de ocorrerem fatos desagradáveis, irregulares ou ilegais por parte dos motoristas,
+o Garupa se responsabiliza unicamente pela averiguação desse fato e pela adoção das medidas
+interna pertinentes, inclusive com relação à comunicação das autoridades públicas pertinentes
+e descadastramento compulsório do motorista da plataforma, sendo o caso.
+Falhas decorrentes do ofício, atrasos do motorista, acidentes, lesões e mortes não estão ao
+alcance de responsabilidade do Garupa. Não é de responsabilidade do Garupa a utilização de
+rotas alternativas por motoristas ou transportes de objetos ilegais.
+O Usuário declara que entende e aceita a possibilidade de existirem erros, intermitências ou
+indisponibilidade dos serviços da plataforma, sendo que o Garupa não se responsabiliza por
+quaisquer prejuízos decorrentes de erros ou interrupção da prestação do serviço ao Usuário.
+O Garupa declara que promoverá todos os esforços razoáveis para evitar a existência de vírus
+ou qualquer outro elemento nocivo existente na plataforma, e o Usuário compreende e aceitaa utilização da plataforma isentando o Garupa de qualquer dano sofrido em decorrência de
+descarregamento ou utilização da plataforma eventualmente infectada ou defeituosa.
+7. DO TRATAMENTO DOS DADOS FORNECIDOS PELO USUÁRIO
+O USUÁRIO COMPREENDE QUE O GARUPA CONSIDERARÁ A UTILIZAÇÃO DOS SERVIÇOS
+DISPOSTOS NA PLATAFORMA COMO ACEITAÇÃO DESTES TERMOS E DE TODAS AS DEMAIS
+DISPOSIÇÕES LEGAIS PERTINENTES À ESPÉCIE, BEM COMO AUTORIZA O GARUPA A REALIZAR O
+TRATAMENTO DOS SEUS DADOS PESSOAIS FORNECIDOS À PLATAFORMA, EM CONFORMIDADE
+COM O QUE PREVÊ O ART. 7o, INCISO I, DA LEI No 13.709/2018.
+Referido consentimento poderá ser revogado a qualquer momento pelo Usuário, ficando desde
+já avençado que, nessa hipótese, o Usuário não mais poderá continuar a prestar quaisquer
+serviços por meio do Aplicativo Garupa, porque estes restarão inviabilizados, visto que o
+tratamento dos dados é uma condição necessária para a prestação dos serviços. A revogação do
+consentimento não terá efeitos retroativos, sendo ratificados os tratamentos realizados sob
+amparo do consentimento anteriormente manifestado.
+Nos termos do art. 5o, inciso X, da Lei no 13.709/18, compreende-se como tratamento de dados
+pessoais toda e qualquer operação realizada com dados pessoais, como as que se referem a
+coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão,
+distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle
+da informação, modificação, comunicação, transferência, difusão ou extração.
+O tratamento em geral de dados do Usuário e das viagens serão realizados somente em caráter
+sigiloso, observada estritamente a finalidade dos serviços prestados pelo Garupa, atentando-se,
+no mais, aos devidos procedimentos de segurança e às regras previstas na Lei no 13.709/2018.
+Respeitando-se a segurança, a privacidade e a confidencialidade dos dados pessoais dos
+Usuários, o Garupa, quando assim determinado por legislação municipal regulatória existente,
+realizará a coleta de informações para cadastro e poderá compartilhar com o Poder Público as
+informações referentes aos dados dos serviços executados, do Usuário ou, ainda, os dados do
+veículo em que ocorreu a intermediação. O Garupa se reserva ainda no direito de utilizar todos
+os meios legais e possíveis para identificar o Usuário, bem como de solicitar ou buscar de forma
+independente, a qualquer momento, dados adicionais e documentos que considere necessários,
+a seu exclusivo critério, com a finalidade de verificar os dados cadastrais informados.
+Após receber a documentação de cadastro, o Garupa efetuará uma análise e poderá, a seu
+exclusivo critério, aceitar ou recusar a solicitação de cadastro do Usuário.
+O Usuário declara que todas as informações fornecidas o Garupa são exatas e verídicas e que é
+o único responsável civil e criminalmente por qualquer erro, insuficiência e/ou falsidade destas.
+O Garupa não se responsabilizará por quaisquer danos a terceiros decorrentes das informações
+fornecidas pelo Usuário, sendo possível a recuperação de quaisquer prejuízos sofridos em caso
+de violação destes Termos.
+Os dados obtidos pelo Garupa, incluindo as informações de contato, poderão ser usados em
+eventuais casos de reclamação, litígio e acidente envolvendo Usuários e motoristas, na intenção
+de que seja apurado e solucionado o incidente.Conforme previsto na legislação vigente, o Usuário autoriza o Garupa a armazenar e
+disponibilizar os seus dados pessoais em caráter sigiloso, mesmo após o encerramento da
+relação contratual, desde que observadas as hipóteses e prazos previstos em Lei.
+O armazenamento, organização, e eventual utilização e divulgação de dados do Usuário e das
+corridas realizadas, serão realizados somente em caráter sigiloso ou a partir de determinação
+judicial, atentando-se, no mais, às regras previstas na Lei no 13.709/2018.
+O Garupa se reserva o direito de, a qualquer momento e a seu critério exclusivo, sancionar com
+a suspensão do perfil ou mesmo com a exclusão do Usuário, sem prejuízo das medidas legais
+cabíveis, em virtude de qualquer comportamento danoso causado, informação inverídica, ou
+qualquer outra conduta praticada em violação aos presentes Termo.
+8.LEGISLAÇÃO APLICÁVEL E JURISDIÇÃO.
+Estes Termos e Condições de Uso são regidos e interpretados exclusivamente de acordo com as
+leis do Brasil. Qualquer reclamação, conflito ou controvérsia que surgir deste contrato ou a ele
+relacionada, inclusive que diga respeito a sua validade, interpretação ou exequibilidade, será
+solucionada no foro da Comarca de Porto Alegre/RS.
+9. AVISOS E NOTIFICAÇÕES
+O Garupa poderá enviar avisos por meio de notificações gerais nos serviços, correio eletrônico
+para seu endereço de e-mail em sua conta. O Usuário poderá notificar o Garupa através do e-
+mail sou@garupa.co,ou fazer comunicação escrita para o endereço da sede do Garupa: Rua
+Botafogo, no 271 – Bairro Menino Deus, Porto Alegre/RS, CEP 90150-051.
+10. DISPOSIÇÕES GERAIS
+O Usuário não pode ceder ou transmitir estes Termos e Condições de Uso integral ou
+parcialmente sem o prévio consentimento por escrito do Garupa. O Usuário dá o seu
+consentimento ao Garupa para que ceda ou transmita estes Termos e Condições de Uso integral
+ou parcialmente, incluindo: (i) a subsidiárias ou afiliadas; (ii) a eventual adquirente de capital,
+negócio ou ativos do Garupa; ou (iii) a um sucessor em virtude de fusão. Não existe qualquer
+joint venture, parceria, relação de trabalho ou de agência entre o Usuário, o Garupa e motorista
+em decorrência da aceitação destes Termos e Condições de Uso ou da utilização dos serviços.
+O Usuário declara que avaliou todos os termos e condições do presente instrumento, e que
+aceita e concorda com todas as disposições aqui contidas.
+CASO VOCÊ TENHA DÚVIDAS SOBRE OS PRESENTES TERMOS DE USO, POR FAVOR, ENTRE EM
+CONTATO COM OS NOSSOS CANAIS DE ATENDIMENTO.
+------------------------------------------------------------------------------------------------------------------TERMOS E CONDIÇÕES DE USO DO APLICATIVO GARUPA
+MOTORISTAS (“GARUPERS”)
+(última atualização: 07 de abril de 2020)
+Olá! Antes de utilizar nossos serviços, tire um tempo para ler nossos Termos e Condições de Uso
+e conheça as regras que regem nossa relação com você.
+A seguir, esclareceremos os pontos que julgamos importantes. Caso persista alguma dúvida
+sobre quaisquer pontos discutidos ou não neste documento, por favor, entre em contato
+conosco pelo endereço motorista@garupa.co.
+POR FAVOR, LEIA COM ATENÇÃO OS PRESENTES TERMOS ANTES DE ACESSAR OU UTILIZAR OS
+NOSSOS SERVIÇOS.
+1. DEFINIÇÕES
+GARUPA: GARUPA DESENVOLVIMENTO DE SISTEMAS LTDA., pessoa jurídica de direito privado,
+inscrita no CNPJ sob o n.o 20.353.275/0001-16, com sede na Rua Botafogo, no 271 – Bairro
+Menino Deus, Porto Alegre/RS, CEP 90150-051.
+PLATAFORMA: ferramenta constituída por um aplicativo mobile e uma aplicação web oferecida,
+de responsabilidade, propriedade e operação do Garupa, que proporciona interação online
+entre os Usuários e motoristas cadastrados, viabilizando a intermediação da prestação do
+transporte remunerado privado individual de passageiros, bem como de serviços de logística
+e/ou compra de bens, perante terceiros independentes.
+MOTORISTA (“GARUPER”): motorista devidamente habilitado, que presta serviços de transporte
+remunerado privado individual de passageiros, de forma totalmente independente e sem
+qualquer vínculo empregatício com o Garupa.
+USUÁRIO: pessoa física, maior de idade, totalmente capaz para os atos da vida civil, ou pessoa
+jurídica devidamente constituída, que acesse e/ou utilize os serviços ofertados pela plataforma.
+2. RELAÇÃO CONTRATUAL
+Este instrumento regula as condições de uso da plataforma entre o Garupa e os Garupers. A
+utilização dos serviços oferecidos na plataforma indica expressamente que o Garuper concorda
+com todos os termos e condições contidos neste instrumento e com as disposições legais
+aplicáveis à espécie.
+Caso o NÃO CONCORDE com os termos de uso previstos neste instrumento, NÃO SE CADASTRE,
+nem acesse, visualize, baixe ou utilize de qualquer forma nenhuma página, conteúdo,
+informação ou serviço do Garupa.
+O GARUPER RECONHECE QUE NÃO HÁ QUALQUER VÍNCULO EMPREGATÍCIO ENTRE SI E O
+GARUPA, TAMPOUCO QUALQUER OUTRA MODALIDADE DE VÍNCULO COM O GARUPA, COMO
+REPRESENTAÇÃO, ASSOCIAÇÃO, GRUPO ECONÔMICO, ETC.
+O GARUPER RECONHECE QUE O GARUPA COLOCA À DISPOSIÇÃO UMA PLATAFORMA PARA A
+INTERMEDIAÇÃO ENTRE USUÁRIOS E MOTORISTAS QUE PRESTAM SERVIÇOS DE TRANSPORTEREMUNERADO PRIVADO INDIVIDUAL DE PASSAGEIROS, NÃO SE TRATANDO DE UMA EMPRESA
+PRESTADORA DE SERVIÇOS DE TRANSPORTE.
+O Garupa poderá imediatamente encerrar estes Termos ou quaisquer serviços em relação ao
+Garuper ou, de modo geral, deixar de oferecer ou negar acesso aos serviços ou a qualquer parte
+deles, a qualquer momento e por qualquer motivo.
+O Garupa tem autonomia para modificar, subtrair e adicionar novos termos sempre que
+necessário. Essas alterações entrarão em vigor quando houver uma nova atualização da versão,
+na qual haverá atualização dos Termos e Condições de Uso e da qual será informado o Garuper.
+3. SERVIÇOS
+Disposições gerais dos serviços
+Os serviços fornecidos pelo Garupa consistem em uma plataforma tecnológica que permite aos
+Garupers cadastrados localizar Usuários igualmente cadastrados na plataforma e que estejam à
+procura de profissionais prestadores de serviço de transporte remunerado privado individual de
+passageiros ou de logística. O Garuper reconhece que o Garupa em si não presta serviços de
+terceiros, incluindo serviços de transporte ou logísticos, nem funciona como empresa
+transportadora.
+Quando da utilização dos serviços oferecidos pelo Garupa, o Garuper reconhece que a
+plataforma coletará informações sobre a sua localização e a disponibilizará aos Usuários.
+Igualmente, o Garupa realizará o monitoramento do serviço prestado, a exemplo de data, hora,
+trajeto percorrido e valor pago. O Garupa também coleta informações sobre preferência do
+motorista Garuper e dos Usuários, podendo fazer uso de cookies, pixel, tags e outras
+tecnologias.
+Modalidades de serviços disponibilizados
+O Garuper reconhece que os serviços podem ser disponibilizados através das várias opções de
+pedido na plataforma, incluindo, sem limitar, o “Garupa Clássico”, “Garupa Executivo”, “Garupa
+Empresa”, “Garupa Pet”, “Garupa Objeto”, “Garupa Kids” e “Garupa Delivery”, este último
+realizado através de motocicletas, bem como outras eventualmente criadas. Garuper reconhece
+também que os referidos serviços podem ser disponibilizados através do próprio Garupa ou em
+conexão com: (i) subsidiárias ou afiliadas do Garupa; ou (ii) terceiros prestadores de serviços,
+incluindo motoristas de empresas de rede de transporte, titulares de licença de motorista
+privado ou titulares de autorizações, licenças ou permissões administrativas similares, para
+transporte.
+Cadastro
+Para utilizar os serviços oferecidos pelo Garupa, o Garuper precisa efetuar registro na
+plataforma e manter uma conta ativa. Para tanto, é necessário:
+a)
+Possuir 18 (dezoito) anos de idade e ser plenamente capaz para os atos da vida civil;
+b)
+Possuir Carteira Nacional de Habilitação na categoria B ou superior que contenha a
+informação de que exerce atividade remunerada;
+c)
+Ter à disposição veículo que atenda aos requisitos e características exigidas pela
+autoridade de trânsito e pelo poder público municipal;
+d)
+Emitir e fornecer ao Garupa cópia do Certificado de Registro e Licenciamento de Veículo
+(CRLV);e)
+Apresentar comprovante de residência;
+f)
+Apresentar certidão negativa de antecedentes criminais atualizada.
+g)
+Possuir seguro de Acidentes Pessoais a Passageiros (APP), conforme exigência do art. 3o
+da Lei Federal no 13.640/2018.
+A criação da conta ainda exige o preenchimento de algumas informações pessoais, como nome,
+endereço, número de telefone celular, idade, além do fornecimento de uma fotografia para o
+cadastro, a qual será disponibilizada para os Usuários toda a vez que houver interação com o
+Garuper.
+O Garupa pode receber informações de outras fontes, caso o Garuper vincule a sua conta a
+provedores de pagamento, Facebook ou outras mídias sociais.
+A veracidade, atualização e manutenção das informações são de total responsabilidade do
+Garuper, o qual responderá civil e criminalmente na hipótese de falsidade.
+Para proceder ao cancelamento do cadastro, o Garuper deverá fazer a solicitação na própria
+plataforma, momento em que a sua conta será imediatamente desativada.
+Obrigações e responsabilidades do Garupa
+Sem prejuízo de outras obrigações previstas em lei, compete ao Garupa:
+a) disponibilizar a plataforma para intermediação dos Garupers e Usuários cadastrados;
+b) cadastrar o veículo do Garuper, desde que atendidos os requisitos mínimos de segurança,
+conforto, higiene e qualidade, a critério do Garupa;
+c) fixar a tarifa a ser cobrada dos Usuários e intermediar o respectivo pagamento ao Garuper,
+disponibilizando meios eletrônicos para pagamento e realizando o desconto da taxa de
+intermediação previamente pactuada;
+d) oferecer serviço de apoio ao Garuper, através de suporte presencial, telefônico, via e-mail ou
+pelo próprio aplicativo, inclusive por meio de Encarregado de Proteção de Dados (Data
+Protection Officer – DPO).
+O Garupa não garante que a plataforma estará disponível interruptamente e/ou estará sempre
+livre de erros, não podendo ser responsabilizada por quaisquer danos causados aos Garupers
+em virtude de qualquer interrupção no seu funcionamento.
+A plataforma poderá, ainda, estar indisponível por motivos técnicos ou falha de serviços de
+internet ou no smartphone do Garuper ou por qualquer outro motivo de caso fortuito ou força
+maior, alheios ao controle do Garupa. Nesta situação, que também se inclui a dependência de
+serviços de telecomunicações e softwares fornecidos por terceiros, o Garupa não poderá ser
+responsabilizado por quaisquer danos ou prejuízos causados ao Garuper.
+Obrigações e responsabilidades do Garuper
+Sem prejuízo de outras obrigações previstas em lei, compete ao Garuper:
+a) Possuir Carteira Nacional de Habilitação (CNH) com autorização para exercício de atividade
+profissional válida, e ainda, outros documentos que poderão ser solicitados pelo poder público
+local;
+b) Efetuar a contratação de todos os seguros inerentes à execução de sua atividade, com o
+seguro de responsabilidade de Acidentes Pessoais de Passageiros (APP) com prêmio de, nomínimo, R$ 50.000,00 (cinquenta mil reais) por passageiro, danos materiais ao veículo, danos a
+terceiros (RCF-V – Responsabilidade Civil Facultativo de veículos) e a contratação do seguro
+obrigatório – DPVAT válidos.
+c) Prestar o serviço de transporte remunerado privado individual de passageiros utilizando-se
+de veículo que atenda aos requisitos mínimos determinados pela legislação vigente e pelo
+Garupa;
+d) Assumir todos os ônus, obrigações e despesas referentes ao exercício de sua atividade,
+incluindo, mas não se limitando, impostos, despesas de pedágio e estacionamento quando
+incorridas pelo Garuper durante a prestação dos serviços, hipótese essa em que os custos serão
+repassados aos Usuários;
+e) Respeitar o Código Nacional de Trânsito Brasileiro, arcando com todas as multas a que der
+causa;
+f) Assumir toda e qualquer responsabilidade advinda de débitos, danos ou prejuízos a que der
+causa, direta ou indiretamente, ao Garupa, aos Usuários, e/ou a quaisquer terceiros, podendo
+o Garupa na qualidade de agência intermediadora, a seu único e exclusivo critério, deduzir ou
+reter os pagamentos que lhe são devidos para compensar os danos e prejuízos sofridos. Na
+hipótese de referidos danos e prejuízos ultrapassarem os créditos do Garuper, este se obriga a
+realizar o ressarcimento ao Garupa no prazo máximo de 24 (vinte e quatro) horas subsequentes
+mediante depósito em conta corrente a ser por esta indicada;
+g) Obter todas as autorizações, alvarás ou cadastros necessários para o exercício de sua
+atividade;
+h) Dispor de aparelho celular compatível com a plena utilização da plataforma com planos de
+voz e dados contratados;
+i) Responsabilizar-se por todas e quaisquer reivindicações, obrigações, ações, demandas,
+honorários advocatícios, indenizações por prejuízo monetário, danos corporais/pessoais,
+materiais, danos à propriedade, danos morais, lucros cessantes e/ou danos emergente(s)
+causado(s) ao Garupa, aos Usuários ou a quaisquer terceiros que comprovadamente der causa;
+Caso o Garupa seja condenado judicial ou extrajudicialmente a indenizar um ou mais Usuários
+mediante o pagamento de qualquer valor ou realização de qualquer obrigação em decorrência
+de violação de qualquer das obrigações pelo Garuper contidas nesta Cláusula, o Garuper
+indenizará o Garupa em perdas e danos a serem apurados.
+O GARUPER ASSUME EXPRESSAMENTE QUE POSSUI TOTAL RESPONSABILIDADE SOBRE A
+UTILIZAÇÃO DO SEU MEIO DE TRANSPORTE (VEÍCULO OU MOTOCICLETA), NÃO POSSUINDO O
+GARUPA QUALQUER RESPONSABILIDADE SOBRE EVENTUAL ACIDENTE QUE VENHA A SOFRER,
+INDEPENDENTEMENTE DE CULPA. IGUALMENTE, ADMITE QUE NÃO INCUMBE AO GARUPA O
+RESSARCIMENTO POR QUALQUER PREJUÍZO QUE O GARUPER VENHA A SOFRER OU A SER
+CONDENADO A PAGAR JUDICIALMENTE OU EXTRAJUDICIALMENTE, INCLUINDO INDENIZAÇÕES,
+PENSÕES, CONDENAÇÕES CRIMINAIS, ETC.
+Perfil do Garuper disponibilizado na plataforma
+Após a aceitação do cadastro do Garuper, o Garupa criará um perfil de acesso intransferível e
+exclusivo à plataforma, no qual o Garuper poderá acessar os dados fornecidos, histórico deviagens, informações sobre pagamentos, aceitar corridas solicitadas pelos Usuários e outros
+dados compartilhados e fornecidos pelo Garupa
+O Garuper declara compreender que o exercício de suas atividades sob a intermediação do
+Garupa ocorre através da utilização de seu perfil, por isso o acesso e utilização do perfil são
+pessoais e intransferíveis.
+Em caso de disponibilização deliberada de acesso ao seu perfil por terceiros, o Garuper se
+declara ciente de que poderá ter o seu perfil excluído da plataforma.
+As informações do perfil do Garuper serão compartilhadas com Usuários no momento da
+corrida, a exemplo de nome, foto, dados do veículo, localização, média de classificação e outras
+informações a seu respeito.
+Avaliações realizadas pelos Usuários
+O Garuper declara estar ciente de que poderá ser avaliado pelos Usuários após a prestação dos
+seus serviços, relativamente à qualidade dos serviços prestados.
+A avaliação será facultada aos Usuários após o término da corrida solicitada e será realizada de
+acordo com critérios subjetivos, classificando a qualidade do serviço prestado em escala de 1
+(um) a 5 (cinco), sendo 1 (um) a pior qualidade e 5 (cinco) a melhor qualidade, podendo, ainda,
+segmentar por parâmetros pré-estabelecidos pelo Garupa relativamente a quesitos de conduta,
+técnica, cordialidade entre outros, além de um campo para livre preenchimento.
+O Garupa, a seu exclusivo critério, visando a melhora constante da qualidade dos serviços
+agenciados, poderá, com base nas avaliações dos Usuários, excluir Garuper de sua base de
+cadastro, rescindindo o presente Termo.
+Do pagamento
+A título de contraprestação pelos serviços de agenciamento, o Garuper repassará ao Garupa a
+comissão de 20% (vinte por cento) calculada sobre a totalidade dos valores efetivamente
+recebidos dos Usuários pela utilização dos serviços. Além da comissão, o Garuper pagará a Taxa
+de Serviço no valor de R$ 0,80 (oitenta centavos) por corrida
+O valor da corrida a ser pago pelo Usuário será automaticamente calculado pela plataforma com
+base na tarifa fixada e na distância da viagem. Esse valor calculado pela plataforma será pago
+por meio do aplicativo, que disponibilizará meio de pagamento ao Usuário.
+Caso a demanda por veículos em uma determinada área esteja alta, o valor da corrida sofrerá a
+incidência de um extra por alta procura. Esse valor extra por alta procura se aplica ao preço
+regular de viagem, estipulado em razão da distância, sendo automaticamente aplicado pela
+plataforma com o aceite da solicitação pelo Usuário.
+Para a incidência do extra por alta demanda, considera-se apenas o local da realização do
+chamado pelo Usuário e não o local em que ocorreu o aceite do chamado pelo Garuper. A
+plataforma identificará as áreas de alta demanda de acordo com um mapa de calor, sendo as
+áreas mais intensas as que têm maior concentração de demanda e, por conseguinte, maior valor
+de extra por alta procura. Essa funcionalidade permitirá a identificação pelo Garuper da
+incidência do extra, cujo valor será devidamente especificado no encerramento da corrida. As
+corridas em que estiver sendo aplicado o extra, serão identificadas no aplicativo por meio deuma tarja identificadora na parte superior do aplicativo, que aparecerá antes do aceite da
+corrida. O valor extra por alta procura, não incidirá sobre pedágios e taxas de cancelamento.
+Para fins de pagamento dos valores estabelecidos, o Garupa irá apurar os valores das corridas
+realizadas pelo Garuper e efetivamente pagas pelos Usuários, descontando o valor de sua
+comissão e os valores devidos ao Poder Público, quando assim determinado por legislação
+municipal que regulamente a atividade.
+O repasse desses valores considerará sempre o ciclo de segunda-feira a domingo, e ocorrerá em
+até 5 (cinco) dias úteis, através de transferência a conta corrente de titularidade do Garuper, a
+ser indicada no momento do cadastro, valendo o comprovante de depósito como prova de
+quitação entre as partes.
+Se, no ciclo de uma semana (segunda a domingo), o Garuper receber pelas corridas dinheiro em
+espécie em quantia superior às corridas via cartão de crédito, e havendo saldo em favor do
+Garupa, a empresa emitirá boleto de cobrança do respectivo valor, o qual deverá ser pago
+impreterivelmente no prazo, sob pena de bloqueio de conta e da adoção das medidas legais de
+cobrança.
+Na hipótese de incidência do extra por alta procura, o Garuper receberá o repasse do valor da
+corrida, já com o desconto da comissão pertinente ao Garupa aplicado ao valor total da corrida.
+A comissão não incidirá sobre pedágios, que serão integralmente repassados ao Garuper.
+Em caso de falha no sistema do Garupa responsável por tal apuração e que prejudique o prazo
+para repasse ao Garuper, o Garupa poderá fazê-lo em até 7 (sete) dias úteis sem que o valor seja
+acrescido de qualquer ônus ou penalidade.
+Para atividades como eventos e promoções, poderão ser adicionados termos específicos que
+serão divulgados aos respectivos serviços. Estes termos adicionados passam a integrar os demais
+termos e caso haja conflito entre eles os termos adicionados prevalecem.
+Os tributos que forem devidos em decorrência direta ou indireta do presente Termo, ou de sua
+execução, constituem ônus de responsabilidade do contribuinte, conforme definido na lei
+tributária.
+O Garupa poderá reter e/ou compensar quaisquer tributos ou outros encargos que, conforme
+definido pela legislação vigente, sejam de sua inteira responsabilidade e, por qualquer motivo o
+Garupa seja demandado de forma solidária ou subsidiária a recolher. A retenção será feita pelo
+período necessário até que ocorra o integral ressarcimento dos valores desembolsados pelo
+Garupa. Esse desconto também incidirá sobre os valores referentes ao extra por alta procura ou
+quaisquer outros referentes às promoções.
+4. DO TRATAMENTO DOS DADOS FORNECIDOS PELO GARUPER
+O GARUPER COMPREENDE QUE O GARUPA CONSIDERARÁ A UTILIZAÇÃO DOS SERVIÇOS
+DISPOSTOS NA PLATAFORMA COMO ACEITAÇÃO DESTES TERMOS E DE TODAS AS DEMAIS
+DISPOSIÇÕES LEGAIS PERTINENTES À ESPÉCIE, BEM COMO AUTORIZA O GARUPA A REALIZAR O
+TRATAMENTO DOS SEUS DADOS PESSOAIS FORNECIDOS À PLATAFORMA, EM CONFORMIDADE
+COM O QUE PREVÊ O ART. 7o, INCISO I, DA LEI No 13.709/2018.
+Referido consentimento poderá ser revogado a qualquer momento pelo Garuper, ficando desde
+já avençado que, nessa hipótese, o Garuper não mais poderá continuar a prestar quaisquer
+serviços por meio do Aplicativo Garupa, porque estes restarão inviabilizados, visto que otratamento dos dados é uma condição necessária para a prestação dos serviços. A revogação do
+consentimento não terá efeitos retroativos, sendo ratificados os tratamentos realizados sob
+amparo do consentimento anteriormente manifestado.
+Nos termos do art. 5o, inciso X, da Lei no 13.709/18, compreende-se como tratamento de dados
+pessoais toda e qualquer operação realizada com dados pessoais, como as que se referem a
+coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão,
+distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle
+da informação, modificação, comunicação, transferência, difusão ou extração.
+O tratamento em geral de dados do Garuper e das viagens serão realizados somente em caráter
+sigiloso, observada estritamente a finalidade dos serviços prestados pelo Garupa, atentando-se,
+no mais, aos devidos procedimentos de segurança e às regras previstas na Lei no 13.709/2018.
+Respeitando-se a segurança, a privacidade e a confidencialidade dos dados pessoais dos
+Garupers, o Garupa, quando assim determinado por legislação municipal regulatória existente,
+realizará a coleta de informações para cadastro e poderá compartilhar com o Poder Público as
+informações referentes aos dados dos serviços executados, do Garuper ou, ainda, os dados do
+veículo. O Garupa se reserva ainda no direito de utilizar todos os meios legais e possíveis para
+identificar o Garuper, bem como de solicitar ou buscar de forma independente, a qualquer
+momento, dados adicionais e documentos que considere necessários, a seu exclusivo critério,
+com a finalidade de verificar os dados cadastrais informados.
+Após receber a documentação de cadastro, o Garupa efetuará uma análise e poderá, a seu
+exclusivo critério, aceitar ou recusar a solicitação de cadastro do Garuper.
+O Garuper declara que todas as informações fornecidas o Garupa são exatas e verídicas e que é
+o único responsável civil e criminalmente por qualquer erro, insuficiência e/ou falsidade destas.
+O Garupa não se responsabilizará por quaisquer danos a terceiros decorrentes das informações
+fornecidas pelo Garuper, sendo possível a recuperação de quaisquer prejuízos sofridos em caso
+de violação destes Termos.
+Os dados obtidos pelo Garupa, incluindo informações de contato, poderão ser usados em
+eventuais casos de reclamação, litígio e acidente envolvendo Garupers e/ou Usuários, na
+intenção de que seja apurado e solucionado o incidente.
+Conforme previsto na legislação vigente, o Garuper autoriza o Garupa a armazenar e
+disponibilizar os seus dados pessoais em caráter sigiloso, mesmo após o encerramento da
+relação contratual, desde que observadas as hipóteses e prazos previstos em Lei.
+O armazenamento, organização, e eventual utilização e divulgação de dados do Garuper e das
+corridas realizadas, serão realizados somente em caráter sigiloso ou a partir de determinação
+judicial, atentando-se, no mais, às regras previstas na Lei no 13.709/2018.
+O Garupa se reserva o direito de, a qualquer momento e a seu critério exclusivo, sancionar com
+a suspensão do perfil ou mesmo com a exclusão do Garuper, sem prejuízo das medidas legais
+cabíveis, em virtude de qualquer comportamento danoso causado, informação inverídica, ou
+qualquer outra conduta praticada em violação aos presentes Termo.
+5. USO DE PROPRIEDADE INTELECTUAL
+TitularidadeO Garupa reserva para si os direitos sobre os serviços de sua propriedade. Seu logotipo, marca
+estão protegidos e não podem ser explorados sem autorização expressa. A utilização que o
+Garupa lhe confere está descrita na seção “Licença”.
+Licença
+Mediante a aceitação destes Termos e Condições de Uso, o Garupa concede ao Garuper uma
+licença limitada, não-exclusiva, não-sublicenciável, revogável, inalienável que permite: (i) o
+acesso e utilização da aplicação no dispositivo pessoal do Usuário unicamente em conexão com
+internet; e (ii) o acesso e utilização de quaisquer conteúdos, informações ou materiais
+relacionados que possam ser disponibilizados através dos serviços da plataforma. Quaisquer
+direitos que não sejam expressamente concedidos nestes Termos e Condições são reservados
+ao Garupa e aos licenciantes do Garupa.
+Restrições
+O Garupa não permite a utilização indevida da marca, logotipo ou qualquer outra propriedade
+intelectual, bem como explorar comercialmente qualquer serviço sem autorização. Não é
+permitido alterar, invadir, hackear ou alterar os programas do site e aplicativo sob pena das
+sanções legais cabíveis. Qualquer alteração, atualização e upgrade de software só poderá ser
+realizada pela equipe técnica do Garupa. Também é vedado ao Garuper reproduzir, preparar
+obras derivadas com base nos serviços, distribuir, conceder uma licença, alugar, vender,
+revender, transferir, exibir ou apresentar publicamente, transmitir, difundir, emitir ou por outra
+forma explorar os serviços, salvo mediante autorização expressa do Garupa. Igualmente, é
+proibido descompilar, aplicar engenharia reversa ou desmontar os serviços, salvo nos termos
+permitidos pelo direito aplicável, inserir links, ou criar mirrors ou frames de todos ou parte dos
+serviços; causar ou correr quaisquer programas ou scripts para efeitos de scraping, indexação,
+sondagens ou exploração de dados de qualquer parte dos serviços ou sobrecarregar ou
+prejudicar indevidamente a operação e/ou funcionalidade de qualquer aspeto dos serviços; ou
+tentar aceder sem autorização ou prejudicar qualquer aspeto dos serviços ou dos seus sistemas
+e redes relacionados.
+6. LEGISLAÇÃO APLICÁVEL E JURISDIÇÃO
+Estes Termos e Condições de Uso são regidos e interpretados exclusivamente de acordo com as
+leis do Brasil. Qualquer reclamação, conflito ou controvérsia que surgir deste contrato ou a ele
+relacionada, inclusive que diga respeito a sua validade, interpretação ou exequibilidade, será
+solucionada no foro da Comarca de Porto Alegre/RS.
+7. DISPOSIÇÕES GERAIS
+O Usuário não pode ceder ou transmitir estes Termos e Condições de Uso integral ou
+parcialmente sem o prévio consentimento por escrito do Garupa. O Usuário dá o seu
+consentimento ao Garupa para que ceda ou transmita estes Termos e Condições de Uso integral
+ou parcialmente, incluindo: (i) a subsidiárias ou afiliadas; (ii) a eventual adquirente de capital,
+negócio ou ativos do Garupa; ou (iii) a um sucessor em virtude de fusão. Não existe qualquer
+joint venture, parceria, relação de trabalho ou de agência entre o Usuário, o Garupa e Garuper
+em decorrência da aceitação destes Termos e Condições de Uso ou da utilização dos serviços.
+O Usuário declara que avaliou todos os termos e condições do presente instrumento, e que
+aceita e concorda com todas as disposições ora contidas.CASO VOCÊ TENHA DÚVIDAS SOBRE OS PRESENTES TERMOS DE USO, POR FAVOR, ENTRE EM
+CONTATO COM OS NOSSOS CANAIS DE ATENDIMENTO.
